@@ -1,0 +1,36 @@
+body{
+  background-color: #1b262c;
+  text-align: center;
+  color: #00a8cc;
+  font-family: 'Cedarville Cursive', cursive;
+  padding: 1% 15%;
+}
+div{
+  margin-top: 30px;
+  text-align: center;
+
+}
+.invisible{
+  visibility: hidden;
+}
+.pl1{
+  /* background-color: green; */
+}
+.pl2{
+  /* background-color: red; */
+}
+.img1{
+
+  color: green;
+
+}
+.leftside{
+  color: #ff1e56;
+}
+.rightside{
+  color: #ffac41;
+}
+p{
+  margin-top: 60px;
+  color: grey;
+}
